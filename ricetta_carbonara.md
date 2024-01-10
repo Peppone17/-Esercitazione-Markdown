@@ -1,6 +1,6 @@
 # Mezze maniche rigate n. 122 alla carbonara
 
-![Mezze Maniche Rigate]()
+![Mezze Maniche Rigate](5.jpg)
 
 ### INGREDIENTI
 
